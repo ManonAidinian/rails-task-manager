@@ -7,3 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Task.create title: 'Laundry', details: 'Do not mix colors!'
 Task.create title: 'Studying', details: 'A lot of flashcards to do', completed: true
+Task.create title: 'Call mum', details: 'Before she panics'
